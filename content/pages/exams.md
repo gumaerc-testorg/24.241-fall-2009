@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: cd4858de-b76d-f89a-6a31-022c5e5eb76a
 ---
