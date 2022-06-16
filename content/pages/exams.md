@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the six course quizzes, the final exam, and a study
+  guide for the final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ FILES
 Quiz 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz1))
+({{% resource_link 436692f9-3104-842e-2907-b4c5c53d97c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +42,7 @@ Quiz 1
 Quiz 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz2))
+({{% resource_link c9d8b068-9c4f-c596-a48f-4dfa0242537e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +51,7 @@ Quiz 2
 Quiz 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz3))
+({{% resource_link 197e016d-86ba-7b12-f030-29026e8ba9b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ Quiz 3
 Quiz 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz4))
+({{% resource_link 2cb2b33b-7bc8-7e65-158b-e5041bae082d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Quiz 4
 Quiz 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz5))
+({{% resource_link 6f05ffa4-9f3c-c910-09dc-6bb3a67bc151 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ Quiz 5
 Quiz 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_quiz6))
+({{% resource_link 42d83248-db6e-0782-8980-e12d30e1f51f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Quiz 6
 Study guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_final_study_guide))
+({{% resource_link 56f43731-bfb2-513d-7b46-afa10236e072 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ Study guide
 Final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_241f09_final))
+({{% resource_link f3e50d3b-110f-1e40-f64b-ed5f19c3955f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
