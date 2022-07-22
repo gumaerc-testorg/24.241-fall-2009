@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview and information on
+  meeting times, texts, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7d8e96c1-9d2e-f191-5fcb-3da4e8cab37f
 ---
@@ -21,7 +25,7 @@ The required text is: Bergmann, Merrie, James Moor, and Jack Nelson. _The Logic 
 
 There are some errors in the text; a list of corrections is provided.
 
-*   The Logic Book errata ([PDF - 1.1MB]({{< baseurl >}}/resources/mit24_241f09_errata))
+*   The Logic Book errata ({{% resource_link 3b6e398d-70a4-5eff-2f04-f630804842e3 "PDF - 1.1MB" %}})
 
 Assignments
 -----------
