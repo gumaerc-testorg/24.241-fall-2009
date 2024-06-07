@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about validity, soundness, logical
   truth, truth tables and translation issues.
 file: /courses/24-241-logic-i-fall-2009/3d5ea8f88f0991a0dd377171ae72d4e1_MIT24_241F09_handout02.pdf
+file_size: 115546
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
