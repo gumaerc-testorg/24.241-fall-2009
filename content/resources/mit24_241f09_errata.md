@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains some of the errors in the book.
 file: /courses/24-241-logic-i-fall-2009/3b6e398d70a45eff2f04f630804842e3_MIT24_241F09_errata.pdf
+file_size: 1198035
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
