@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains questions of final exam. '
 file: /courses/24-241-logic-i-fall-2009/f3e50d3b110f1e40f64bed5f19c3955f_MIT24_241F09_final.pdf
+file_size: 169256
 file_type: application/pdf
 learning_resource_types:
 - Exams
