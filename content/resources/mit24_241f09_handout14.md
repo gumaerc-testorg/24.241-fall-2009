@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains handout of session 14. '
-file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2009/6d4a7b47d3211faac92d2fe3c243a379_MIT24_241F09_handout14.pdf
+file: /courses/24-241-logic-i-fall-2009/6d4a7b47d3211faac92d2fe3c243a379_MIT24_241F09_handout14.pdf
 file_size: 130391
 file_type: application/pdf
 learning_resource_types:
