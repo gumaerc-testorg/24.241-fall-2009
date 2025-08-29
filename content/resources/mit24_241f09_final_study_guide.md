@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains study guide for final exam. '
-file: /courses/24-241-logic-i-fall-2009/56f43731bfb2513d7b46afa10236e072_MIT24_241F09_final_study_guide.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2009/56f43731bfb2513d7b46afa10236e072_MIT24_241F09_final_study_guide.pdf
 file_size: 102136
 file_type: application/pdf
 learning_resource_types:
